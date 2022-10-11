@@ -60,8 +60,8 @@ public class JwtUtils
      */
     public static String getUserKey(Claims claims)
     {
-        return getValue(claims, SecurityConstants.USER_KEY);
-    }
+    return getValue(claims, SecurityConstants.USER_KEY);
+}
 
     /**
      * 根据令牌获取用户ID
