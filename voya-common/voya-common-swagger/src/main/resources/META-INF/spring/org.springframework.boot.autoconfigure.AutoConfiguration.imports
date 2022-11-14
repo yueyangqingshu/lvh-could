@@ -1,0 +1,3 @@
+com.voya.common.swagger.config.SwaggerAutoConfiguration
+com.voya.common.swagger.config.SwaggerWebConfiguration
+com.voya.common.swagger.config.SwaggerBeanPostProcessor

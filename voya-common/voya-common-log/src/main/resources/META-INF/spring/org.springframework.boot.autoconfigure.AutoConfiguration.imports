@@ -1,0 +1,2 @@
+com.voya.common.log.service.AsyncLogService
+com.voya.common.log.aspect.LogAspect
